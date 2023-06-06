@@ -11,3 +11,5 @@ Filters and Slicers: Users can filter and slice data to focus on specific time p
 # Steps
 1 Data cleansing: clean data( removed duplicates and unrequired data, combined given multiple data sources) in Power Query Editor.
 2 Data Transmorfation - Multidimensional Star schema 
+
+![Star](https://github.com/asselina94/population-data-model/assets/54496175/2707c20e-23e1-4983-b732-ae66a38f1a54)
