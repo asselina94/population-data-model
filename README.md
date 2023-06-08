@@ -13,16 +13,16 @@ Visualizations: The visualizations in the project encompass a variety of charts,
 Filters and Slicers: Users can filter and slice data to focus on specific time periods, regions, or other relevant dimensions to explore data in-depth.
 
 # Steps
-1 Data cleansing: clean data( removed duplicates and unrequired data, combined given multiple data sources) in Power Query Editor.
-2 Data Transmorfation - Multidimensional Star schema data model which includes (Fact population, DIM-region, DIM-age, DIM-gender).
+<li>1 Data cleansing: clean data( removed duplicates and unrequired data, combined given multiple data sources) in Power Query Editor.</li>
+<li>2 Data Transmorfation - Multidimensional Star schema data model which includes (Fact population, DIM-region, DIM-age, DIM-gender).</li>
   DIM - dimensial table. The idea is seperate or categorize the information because the more data you have the more complex the data model     gets, while the more structured data should be organized. 
   
   ![Star](https://github.com/asselina94/population-data-model/assets/54496175/2707c20e-23e1-4983-b732-ae66a38f1a54)
   
-3 The Data model - Analyze Data, relationships. 
-  In this project One to Many relationship was used and applied filters by gender. 
-4 Created Visuals in Report View 
-  Used Report level filters aand Concept of Hierarchies and Slicers to combine multiple levels in one single visul.
+<li>3 The Data model - Analyze Data, relationships. 
+  In this project One to Many relationship was used and applied filters by gender. </li>
+<li>4 Created Visuals in Report View 
+  Used Report level filters aand Concept of Hierarchies and Slicers to combine multiple levels in one single visul.</li>
   
 <img width="975" alt="Screenshot 2023-06-08 at 11 07 52" src="https://github.com/asselina94/population-data-model/assets/54496175/9d20ebaa-52ff-40e3-9b3f-7001eda1eb4e">
 
