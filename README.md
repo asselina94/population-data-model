@@ -28,4 +28,4 @@ Filters and Slicers: Users can filter and slice data to focus on specific time p
 
   
 # Challenges
-Challenging part is Data model which include relationships and DAX ( data analysis espressions)
+Challenging part was Data Model which included making correct relationships to connect Star schene parts and DAX ( data analysis espressions).
