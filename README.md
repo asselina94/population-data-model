@@ -24,6 +24,7 @@ Filters and Slicers: Users can filter and slice data to focus on specific time p
 4 Created Visuals in Report View 
   Used Report level filters aand Concept of Hierarchies and Slicers to combine multiple levels in one single visul.
   
+<img width="975" alt="Screenshot 2023-06-08 at 11 07 52" src="https://github.com/asselina94/population-data-model/assets/54496175/9d20ebaa-52ff-40e3-9b3f-7001eda1eb4e">
 
   
 # Challenges
