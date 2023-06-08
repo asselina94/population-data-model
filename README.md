@@ -1,5 +1,7 @@
 # population-data-model
 
+<img width="1083" alt="Screenshot 2023-06-08 at 11 25 31" src="https://github.com/asselina94/population-data-model/assets/54496175/7f229052-6d02-4128-90bd-81ab02766445">
+
 This repository contains a Power BI project that provides interactive visualizations and data analysis for Population data of different periods(2010-2040). The project is designed to help users gain insights, make data-driven decisions, and effectively communicate information through intuitive visualizations.
 
 # Features
