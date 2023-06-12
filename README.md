@@ -1,16 +1,18 @@
-# population-data-model
+<h3> population-data-model </h3>
 
-## Population Data Analysis with Interactive Visuals
+<h1> Population Data Analysis with Interactive Visuals </h1>
 
 <img width="1083" alt="Screenshot 2023-06-08 at 11 25 31" src="https://github.com/asselina94/population-data-model/assets/54496175/7f229052-6d02-4128-90bd-81ab02766445">
 
-This repository contains a Power BI project that provides interactive visualizations and data analysis for Population data of different periods(2010-2040). The project is designed to help users gain insights, make data-driven decisions, and effectively communicate information through intuitive visualizations.
+> This repository contains a Power BI project that provides interactive visualizations and data analysis for Population data of different periods(2010-2040). 
+> 
+> The project is designed to help users gain insights, make data-driven decisions, and effectively communicate information through intuitive visualizations.
 
 # Features
-Interactive Dashboards: The project includes interactive dashboards that showcase key metrics, trends, and performance indicators related to population and countries.<br>
-Data Sources: The project utilizes data from Excel and Csv files.<br>
-Visualizations: The visualizations in the project encompass a variety of charts, graphs, and tables to present data in a clear and meaningful way.<br>
-Filters and Slicers: Users can filter and slice data to focus on specific time periods, regions, or other relevant dimensions to explore data in-depth.
+<em><strong>Interactive Dashboards</strong></em>: The project includes interactive dashboards that showcase key metrics, trends, and performance indicators related to population and countries.<br>
+<em><strong>Data Sources</strong></em>: The project utilizes data from Excel and Csv files.<br>
+<em><strong>Visualizations</strong></em>: The visualizations in the project encompass a variety of charts, graphs, and tables to present data in a clear and meaningful way.<br>
+<em><strong>Filters and Slicers</strong></em>: Users can filter and slice data to focus on specific time periods, regions, or other relevant dimensions to explore data in-depth.
 
 # Steps
 <li>1 Data cleansing: clean data( removed duplicates and unrequired data, combined given multiple data sources) in Power Query Editor.</li>
