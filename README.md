@@ -40,4 +40,6 @@
 
   
 # Challenges
-Challenging part was Data Model which included making correct relationships to connect Star schene parts and DAX ( data analysis espressions).
+Challenging part was Data Model which included making correct relationships to connect Star scheme parts and DAX ( data analysis espressions).
+> <strong>Solution:<strong>
+
