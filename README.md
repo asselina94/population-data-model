@@ -41,5 +41,9 @@
   
 # Challenges
 The challenging part was Data Model which included making correct relationships to connect Star scheme parts and DAX ( data analysis expressions).
-> <strong>Solution: Star Scheme, Visuals with slicers and filters. <strong>
+> <strong>Solution: Here, with the relationships and the different relationship types, I was able to bring star schema that was prepared in the Query Editor and added calculations to data with the help of DAX. DAX is the language we use in the data model. The first calculation type were so-called calculated columns, where I combined the age group and the age category. The calculated column allows to return a value
+for each individual row that we have in our existing table. Measures allow us to perform calculations that return an aggregated value, which can then be used in actual visuals. The measure is not displayed as part of a new column here in our table but indicated by the calculator symbol as part of a specific so-called home table. 
+
+
+
 
